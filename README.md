@@ -1,25 +1,51 @@
 # AI Prompt Library
 
-A curated collection of practical prompts used in real-world AI training and business applications.
+A curated collection of high-impact AI prompts used in real-world training, coaching, and business workflows.
+
+---
 
 ## Use Cases
 
-- Content creation (LinkedIn posts, webinars, courses)
-- Sales & marketing copy
-- Coaching & mentoring
-- Automation workflows
+### 1. Content Creation
+- LinkedIn posts
+- Blog writing
+- Video scripts
+
+### 2. Sales & Marketing
+- Webinar scripts
+- Offer creation
+- Ad copy
+
+### 3. Coaching & Career Growth
+- Niche clarity prompts
+- Decision-making frameworks
+- Confidence-building exercises
+
+### 4. Automation Workflows
+- AI + Zapier/Pabbly integrations
+- Lead nurturing sequences
+- WhatsApp automation prompts
+
+---
 
 ## Sample Prompts
 
-### 1. Career Coaching
-"Act as a career coach. Help a working professional identify a profitable niche based on their skills, experience, and market demand."
+### Career Clarity Prompt
+"Act as a career coach. Help me identify my strengths, skills, and ideal niche based on my experience and market demand."
 
-### 2. Content Creation
-"Act as a LinkedIn content expert. Create a high-engagement post on AI for educators with a strong hook and CTA."
+### Content Creation Prompt
+"Act as a LinkedIn content strategist. Create a high-engagement post with a strong hook and CTA."
 
-### 3. Webinar Script
-"Act as a sales strategist. Create a 60-minute webinar structure to sell an AI course."
+### Webinar Script Prompt
+"Act as a sales strategist. Create a persuasive webinar structure that converts viewers into paying customers."
+
+---
 
 ## Purpose
 
-These prompts are actively used in live training sessions to help professionals implement AI in real-world scenarios.
+These prompts are actively used in:
+- AI training sessions
+- Coaching programs
+- Business automation systems
+
+Focus: Practical execution and real outcomes.
